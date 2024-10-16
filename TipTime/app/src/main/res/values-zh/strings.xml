@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TipTime</string>
+    <string name="textview">服务怎么样？</string>
+    <string name="button">计算</string>
+    <string name="raido_btn1">还行(10%)</string>
+    <string name="radiobtn16">不错(16%)</string>
+    <string name="radiobtn3">非常好(21%)</string>
+    <string name="TipAmount">小费金额： %s</string>
+    <string name="Round_up">四舍五入吗?</string>
+</resources>

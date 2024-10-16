@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TipTime</string>
+    <string name="textview">How was the service?</string>
+    <string name="button">CALCULATE</string>
+    <string name="raido_btn1">OK(10%)</string>
+    <string name="radiobtn16">GOOD(16%)</string>
+    <string name="radiobtn3">Amazing(21%)</string>
+    <string name="TipAmount">Tip Amount: %s</string>
+    <string name="Round_up">Round Up Tip?</string>
+</resources>

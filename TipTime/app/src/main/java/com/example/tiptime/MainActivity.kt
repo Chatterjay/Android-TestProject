@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun calculateTip() {
-        val inputAmount = binding.editTextNumberDecimal.text.toString()
+        val inputAmount = binding.constOfServiceEdit.text.toString()
         // 转换类型
         val const = inputAmount.toDoubleOrNull()
         if (const == null) return displayTip(0.0)

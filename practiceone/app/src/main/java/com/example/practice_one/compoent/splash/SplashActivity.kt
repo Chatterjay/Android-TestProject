@@ -37,6 +37,13 @@ class SplashActivity : BaseLogicActivity() {
         // 设置年份
         val currentYear = SuperDateUtils.currentYear()
         copyright.text = getString(R.string.copyright_information, "$currentYear")
+        showTermsServiceAgreementDialog()
+    }
 
+    /*
+    * 显示服务条款
+    * */
+    private fun showTermsServiceAgreementDialog() {
+        TermServiceDialogFragment.show(supportFragmentManager)
     }
 }

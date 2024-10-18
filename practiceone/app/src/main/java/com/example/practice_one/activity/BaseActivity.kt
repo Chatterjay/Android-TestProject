@@ -4,15 +4,15 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 
 open class BaseActivity : AppCompatActivity() {
-    /*
-    * 找控件
+    /**
+    * 初始化获取控件
     * */
     protected open fun initViews() {}
-    /*
+    /**
     * 设置数据
     * */
     protected open fun initDatum() {}
-    /*
+    /**
     * 设置监听器
     * */
     protected open fun initListeners() {}

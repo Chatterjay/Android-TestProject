@@ -4,5 +4,18 @@
     <string name="logo">logo</string>
     <string name="title">title</string>
     <string name="term_service_privacy">服务条款和隐私协议提示</string>
+    <string name="term_service_privacy_content"><![CDATA[
+    <p>这里是段落内容</p>
+    <div><a href="https://github.com">协议内容</a></div>
+    <div><a href="https://github.com">协议内容</a></div>
+    <div><a href="https://github.com">协议内容</a></div>
+    <div><a href="https://github.com">协议内容</a></div>
+    <div><a href="https://github.com">协议内容</a></div>
+    <div><a href="https://github.com">协议内容</a></div>
+    <div><a href="https://github.com">协议内容</a></div>
+
+]]></string>
+    <string name="agree">Agree</string>
+    <string name="disagree">disagree</string>
 
 </resources>

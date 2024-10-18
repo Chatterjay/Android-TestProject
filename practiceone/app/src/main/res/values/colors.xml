@@ -3,6 +3,15 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="super_toast_success_background">#ff0ab855</color>
+    <color name="primary">#f04142</color>
+    <color name="primary30">#a92e29</color>
+    <color name="primary50">#c92e29</color>
+    <color name="primary60">#4c85a7</color>
+    <color name="link">@color/primary60</color>
+    <color name="super_click_background">#ffd5d5d5</color>
+    <color name="super_text">#ff161616</color>
+    <color name="super_Light_grey">#ff888888</color>
+    <color name="super_toast_background">#ff313131</color>
     <color name="super_black40">#ff2b2b2b</color>
     <color name="black_transparent_88">#88000000</color>
     <color name="button_transparent_88">#88000000</color>

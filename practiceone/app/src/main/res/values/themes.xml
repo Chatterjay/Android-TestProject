@@ -4,5 +4,7 @@
         <item name="android:colorBackground">@color/white</item>
         <item name="android:statusBarColor">?android:attr/colorBackground</item>
         <item name="colorOnSurface">@color/black4θ</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnSecondary">@color/white</item>
     </style>
 </resources>
